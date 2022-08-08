@@ -1,5 +1,10 @@
 ### Hi there 👋
+:relaxed: My name is Adebusola John Oluwatoyin
 
+- 🔭 I’m currently studying to be a frontend developer ...
+- 🌱 I’m Have learnt HTML,CSS and JAVASCRPT
+- 🌱 I’m currently learning TAILWINDCSS, REACT.JS...
+- 📫 How to reach me: Twitter[@longjonny0]...
 <!--
 **johbadebusola/johbadebusola** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
